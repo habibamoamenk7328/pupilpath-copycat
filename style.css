@@ -1,0 +1,13 @@
+body{
+     background-color: rgb(57, 90, 170);
+     background-image:radial-gradient(circle at top left,rgb(0, 120, 185) 5%,rgb(128,55,155) 95%);
+    
+}
+.logo{
+     width: 400px;
+     margin-left:0px;
+     margin-right:0px;
+     margin-top:15px;
+     margin-bottom:15px;
+    
+}
