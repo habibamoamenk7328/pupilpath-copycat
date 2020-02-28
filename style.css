@@ -1,13 +1,27 @@
 body{
      background-color: rgb(57, 90, 170);
-     background-image:radial-gradient(circle at top left,rgb(0, 120, 185) 5%,rgb(128,55,155) 95%);
+     background: linear-gradient(90deg,#0078b9,#80379b);
+     
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    width :400px;
+    height: 138px;
     
 }
-.logo{
-     width: 400px;
-     margin-left:0px;
-     margin-right:0px;
-     margin-top:15px;
-     margin-bottom:15px;
-    
+
+h2{
+    color:white;
+    font-family:inherit;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.sign-in-box{
+    background:gray;
+    text-align:center;
 }
