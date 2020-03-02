@@ -3,7 +3,10 @@ body{
      background: linear-gradient(90deg,#0078b9,#80379b);
      
 }
-
+class= "center"
+.center{
+    text-align:center;
+}
 .logo {
     
     margin-left: auto;
