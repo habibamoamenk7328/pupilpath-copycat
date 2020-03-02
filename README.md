@@ -1,5 +1,6 @@
 # pupilpath-copycat
-*To acess my github pages [click here](https://github.com/habibamoamenk7328/pupilpath-copycat)
-*To acess my google Docs [click here](https://docs.google.com/document/d/1s_2BjvehDCH1fV5CYnkx0C-NcmQZ7M5_RxRgEdK3WBc/edit)
+To acess my github pages [click here](https://github.com/habibamoamenk7328/pupilpath-copycat)
+
+To acess my google Docs [click here](https://docs.google.com/document/d/1s_2BjvehDCH1fV5CYnkx0C-NcmQZ7M5_RxRgEdK3WBc/edit)
 
 The purpose of this project was for us to apply what we have learned so far in Basic Web Design. We had options of websites that we could choose from and reverse engineer that website from the start. I choose to recreate pupilpath and in my opinion, it wasn’t as easy as I thought it was. Throughout the process of creating this website, I realized that I had to learn somethings such as padding and margin rules. Things such as margins and padding made a really big difference in how your website really looked in the end. Without them, you can’t easily space out different lines. I also had to learn about different types of background gradients such as radial and linear. Besides the obstacles and challenges that I have faced  I enjoyed this project it was fun and at the same time, it gave me a chance to clearly know what each part of my code is used for. This project really did help me realize the purpose of every part of my code.
