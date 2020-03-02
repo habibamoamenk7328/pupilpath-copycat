@@ -3,10 +3,7 @@ body{
      background: linear-gradient(90deg,#0078b9,#80379b);
      
 }
-class= "center"
-.center{
-    text-align:center;
-}
+
 .logo {
     
     margin-left: auto;
@@ -21,37 +18,49 @@ img {
     height: 138px;
     
 }
-
-h2{
+h2 {
     color:white;
-    font-family:inherit;
     font-size:24px;
-    font-weight:bold;
+    font-family:inherit;
+    padding-top:37px;
 }
+
  
 .sign-in-box{
     background:rgba(255,255,255,0.1);
     text-align:center;
-    width: 185px;
-    height:300px;
+    width: 280px;
+    height:230px;
     
-
-
     margin-top:15px;
     margin-right:auto;
+    
     margin-left:auto;
-
-    border-radius:2%;
+    
+    border-radius:5px;
 }
 
 #sign-in-button{
+    color:white;
+    font-family:inherit;
+    font-size:16px;
+
+    background:rgba(255,255,255,0.2);
+    width: 70px;
+	height: 20px;
+
+    padding-top:10px;
+    padding-bottom:10px;
+
+    margin-left:100px;
+    margin-top:10px;
+    margin-bottom:20px;
+
+    border-radius:5px;
+        
+        
+
     
-    text-align: center;
-        background: rgba(255, 255, 255, 0.1);
-        padding: 35px;
-        border-radius: 5px;
-        border: none;
-        box-shadow: none;
     
 }
 #sign-in-button:hover{
@@ -61,10 +70,10 @@ h2{
 
 #register {
     color:white;
-    font-size:11.5px;
-    font-family:Arial;
-
-    padding-bottom:30px;
+    font-size:18px;
+    font-family:inherit;
+    margin-bottom:20px;
+    
 
     text-align:center;
 
@@ -80,9 +89,9 @@ h2{
 
 #instructions{
     color:white;
-    font-family:Arial;
-    font-size:11.5px;
-    padding-bottom:3px;
+    font-family:inherit;
+    font-size:12px;
+    
 }
 #instructions:hover{
     text-decoration: underline;
@@ -94,8 +103,10 @@ h2{
 
 #forget-password{
     color:white;
-    font-family:Arial;
-    font-size:11.5px;
+    font-family:inherit;
+    font-size:12px;
+  
+    
 }
 #forget-password:hover{
     text-decoration: underline;
@@ -107,13 +118,13 @@ h2{
 
 #bottom-text{
     color:white;
-    font-family:Arial;
-    font-size:11.5px;
+    font-family:inherit;
+    font-size:12px;
 
     text-align:center;
 
     
-    margin:15px auto;
+    margin:auto;
     margin-left:auto;
 }
 #bottom-text:hover{
